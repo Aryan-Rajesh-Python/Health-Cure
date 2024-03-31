@@ -66,7 +66,7 @@ threadpoolctl==3.1.0
 typing-extensions==4.2.0
 uritemplate==4.1.1
 urllib3==1.26.9
-Werkzeug==2.1.2
+Werkzeug==2.3.8
 wrapt==1.14.1
 xgboost==1.6.1
 zipp==3.8.0
